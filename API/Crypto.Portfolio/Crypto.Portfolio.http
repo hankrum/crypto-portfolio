@@ -1,0 +1,6 @@
+@Crypto.Portfolio_HostAddress = http://localhost:5079
+
+GET {{Crypto.Portfolio_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
